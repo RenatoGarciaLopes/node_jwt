@@ -1,0 +1,14 @@
+{
+    "development": {
+        "url": "postgres://postgres:123456@localhost:5432/node_api",
+        "dialect": "postgres"
+    },
+    "test": {
+        "url": "postgres://postgres:123456@localhost:5432/node_api",
+        "dialect": "postgres"
+    },
+    "production": {
+        "url": "postgres://postgres:123456@localhost:5432/node_api",
+        "dialect": "postgres"
+    }
+}
