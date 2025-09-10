@@ -70,7 +70,7 @@ Servidor: `http://127.0.0.1:3000`
 - Configurações são lidas de `process.env` (`src/Config/index.js`)
 
 ### Entrega
-- Repositório GitHub: substitua este texto pelo link do seu repositório público
+- Repositório GitHub: https://github.com/RenatoGarciaLopes/node_jwt.git
 - Inclua os prints acima na pasta `docs/prints/`
 
 
