@@ -71,6 +71,6 @@ Servidor: `http://127.0.0.1:3000`
 
 ### Entrega
 - Repositório GitHub: https://github.com/RenatoGarciaLopes/node_jwt.git
-- Inclua os prints acima na pasta `docs/prints/`
+- Prints acima e na pasta `docs/prints/`
 
 
