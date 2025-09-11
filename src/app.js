@@ -14,7 +14,7 @@ const errorHandler = require('src/Infrastruct/Express/middlewares/errorHandler')
 const authRoutes = require('src/Infrastruct/Express/routes/auth.routes');
 
 // Providers e Use Cases
-const JWTProvider = require('src/Infrastruct/Providers /JWTProvider');
+const JWTProvider = require('src/Infrastruct/Providers/JWTProvider');
 const RegisterUser = require('src/Application/UseCases/Auth/RegisterUser');
 const LoginUser = require('src/Application/UseCases/Auth/LoginUser');
 
